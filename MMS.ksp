@@ -1,0 +1,16 @@
+{
+  "appName": "电商管理系统",
+  "appCode": "MMS",
+  "serverUrl": "http://localhost:54801",
+  "appInfo": {
+    "id": "d22a04206e21450986d92bf37cc35ee7",
+    "layout": "1",
+    "security": "http",
+    "selectModule": "kesplus_workflow"
+  },
+  "supportVersion": {
+    "createVersion": "v3.1.6",
+    "maxVersion": "v3.1.6",
+    "minVersion": "v3.1.6"
+  }
+}
